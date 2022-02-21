@@ -1,0 +1,108 @@
+﻿  Clustering.cpp
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(27,10): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(28,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(38,14): warning C4101: a: неиспользованная локальная переменная
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(52,10): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(53,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(59,14): warning C4101: a: неиспользованная локальная переменная
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(329,29): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(330,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(337,97): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(436,29): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(437,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(444,97): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(502,25): warning C4244: =: преобразование "_Ty" в "__int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(514,21): warning C4244: аргумент: преобразование "_Ty1" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty1=__int64
+          ]
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(514,60): warning C4244: аргумент: преобразование "_Ty1" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty1=__int64
+          ]
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(514,99): warning C4244: аргумент: преобразование "_Ty2" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty2=__int64
+          ]
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(514,143): warning C4244: аргумент: преобразование "_Ty1" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty1=__int64
+          ]
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(514,172): warning C4244: аргумент: преобразование "_Ty2" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty2=__int64
+          ]
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(515,24): warning C4244: аргумент: преобразование "_Ty1" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty1=__int64
+          ]
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(515,58): warning C4244: аргумент: преобразование "_Ty1" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty1=__int64
+          ]
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(515,95): warning C4244: аргумент: преобразование "_Ty2" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty2=__int64
+          ]
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(515,137): warning C4244: аргумент: преобразование "_Ty1" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty1=__int64
+          ]
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(515,166): warning C4244: аргумент: преобразование "_Ty2" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty2=__int64
+          ]
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(519,60): warning C4244: аргумент: преобразование "_Ty2" в "const int", возможна потеря данных
+          with
+          [
+              _Ty2=__int64
+          ]
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(524,53): warning C4244: аргумент: преобразование "_Ty2" в "const int", возможна потеря данных
+          with
+          [
+              _Ty2=__int64
+          ]
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(531,42): warning C4244: аргумент: преобразование "_Ty2" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty2=__int64
+          ]
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(532,20): warning C4244: аргумент: преобразование "_Ty1" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty1=__int64
+          ]
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(532,53): warning C4244: аргумент: преобразование "_Ty2" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty2=__int64
+          ]
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(534,44): warning C4244: аргумент: преобразование "_Ty2" в "const int", возможна потеря данных
+          with
+          [
+              _Ty2=__int64
+          ]
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(559,29): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(560,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(568,80): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(642,20): warning C4244: аргумент: преобразование "__int64" в "size_t", возможна потеря данных
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(665,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(670,30): warning C4244: аргумент: преобразование "__int64" в "double", возможна потеря данных
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(670,27): warning C4244: аргумент: преобразование "__int64" в "double", возможна потеря данных
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(679,22): warning C4244: аргумент: преобразование "__int64" в "double", возможна потеря данных
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Clustering.cpp(688,22): warning C4244: аргумент: преобразование "__int64" в "double", возможна потеря данных
+  Clustering.vcxproj -> D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Debug\Clustering.exe

@@ -1,0 +1,2 @@
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Debug\Clustering.exe
+D:\BMSTU\2 семестр\ООП\Progs\VS.Clusters2\Clustering\Debug\Clustering.pdb
